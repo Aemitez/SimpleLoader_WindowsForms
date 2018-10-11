@@ -1,0 +1,15 @@
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\SimpleLoader_WindowsForms.exe.config
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\SimpleLoader_WindowsForms.exe
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\SimpleLoader_WindowsForms.pdb
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\CircularProgressBar.dll
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\WinFormAnimation.dll
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\CircularProgressBar.xml
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\bin\Debug\WinFormAnimation.xml
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.csprojAssemblyReference.cache
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.Form1.resources
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.Properties.Resources.resources
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.csproj.GenerateResource.cache
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.csproj.CopyComplete
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.exe
+C:\Users\pailinn\Desktop\SimpleLoader_WindowsForms\SimpleLoader_WindowsForms\obj\Debug\SimpleLoader_WindowsForms.pdb
